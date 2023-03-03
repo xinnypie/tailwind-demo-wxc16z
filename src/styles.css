@@ -1,0 +1,6 @@
+/* @tailwind base;
+@tailwind components; */
+.bg-red-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(254, 226, 226, var(--tw-bg-opacity))
+}
